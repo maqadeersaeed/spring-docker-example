@@ -1,0 +1,7 @@
+# target ::: Enable in case docker has build stage also
+.git
+.gitignore
+.DS_Store
+.idea
+*.iml
+*.log

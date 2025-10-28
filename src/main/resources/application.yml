@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: spring-docker-example
+server:
+  port: 7001
